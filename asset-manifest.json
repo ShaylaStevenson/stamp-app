@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stamp-app/static/css/main.879b3096.chunk.css",
+    "main.js": "/stamp-app/static/js/main.7c443d59.chunk.js",
+    "main.js.map": "/stamp-app/static/js/main.7c443d59.chunk.js.map",
+    "runtime-main.js": "/stamp-app/static/js/runtime-main.5c809991.js",
+    "runtime-main.js.map": "/stamp-app/static/js/runtime-main.5c809991.js.map",
+    "static/js/2.40b3acd0.chunk.js": "/stamp-app/static/js/2.40b3acd0.chunk.js",
+    "static/js/2.40b3acd0.chunk.js.map": "/stamp-app/static/js/2.40b3acd0.chunk.js.map",
+    "index.html": "/stamp-app/index.html",
+    "precache-manifest.59a517c8746aa9ffbe66b6399cee6317.js": "/stamp-app/precache-manifest.59a517c8746aa9ffbe66b6399cee6317.js",
+    "service-worker.js": "/stamp-app/service-worker.js",
+    "static/css/main.879b3096.chunk.css.map": "/stamp-app/static/css/main.879b3096.chunk.css.map",
+    "static/js/2.40b3acd0.chunk.js.LICENSE.txt": "/stamp-app/static/js/2.40b3acd0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/stamp-app/static/media/logo.495d93cc.svg",
+    "static/media/purpleFlower.jpg": "/stamp-app/static/media/purpleFlower.bd0f2530.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c809991.js",
+    "static/js/2.40b3acd0.chunk.js",
+    "static/css/main.879b3096.chunk.css",
+    "static/js/main.7c443d59.chunk.js"
+  ]
+}
